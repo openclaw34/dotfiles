@@ -1,0 +1,5 @@
+[user]
+	name = openclaw
+	email = openclaw34@users.noreply.github.com
+[commit]
+	template = ~/.gitmessage
